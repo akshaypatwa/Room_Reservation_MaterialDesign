@@ -1,4 +1,3 @@
-# [Material Bootstrap Wizard](http://demos.creative-tim.com/material-bootstrap-wizard/wizard-book-room.html)
 
 ![alt text](http://s3.amazonaws.com/creativetim_bucket/products/48/original/opt_mbw_thumbnail.jpg?1472405077)
 
@@ -10,26 +9,11 @@ What Material Bootstrap Wizard does is to break the information into chunks and 
 
 Technical
 
- This is a javascript plugin, originally made by [Vadim Vincent Gabriel](http://vadimg.com/). Please check here the [Full Documentation](http://vadimg.com/twitter-bootstrap-wizard-example/). We used our famous [Material Kit](http://demos.creative-tim.com/material-kit/index.html) for the design elements of the wizard.
+ This is a javascript plugin, originally made by [Vadim Vincent Gabriel](http://vadimg.com/). 
 
  To make the integration easier we also made a tutorial with code snippets. Once you have decided to integrate it, everything will be fairly easy, so you don't have to worry about it! If you have any other questions, don't hesitate to contact us and we will help you out.
 
 
-
-## Links:
-
-+ [Live Preview](http://demos.creative-tim.com/material-bootstrap-wizard/wizard-book-room.html)
-+ [Register User Flow](http://demos.creative-tim.com/material-bootstrap-wizard/wizard-build-profile.html)
-+ [Book Hotel Room](http://demos.creative-tim.com/material-bootstrap-wizard/wizard-book-room.html)
-+ [List Your Place](http://demos.creative-tim.com/material-bootstrap-wizard/wizard-list-place.html)
-
-## Quick start
-
-Quick start options:
-
-- [Download from Github](https://github.com/timcreative/material-bootstrap-wizard/archive/master.zip).
-- [Download from: Creative Tim](http://www.creative-tim.com/product/material-bootstrap-wizard).
-- Clone the repo: `git clone https://github.com/timcreative/material-bootstrap-wizard.git`.
 
 ### What's included
 
@@ -60,43 +44,4 @@ material-bootstrap-wizard/
 
 ```
 
-### Version logs
-
-- V1.0, 27 Aug '16 [initial release]
-
-- V1.0.1, 06 Sep '16 - Bugfixing
-    - added validation in next check step
-    - favicon changes
-    - edit readme
-    - changes on scss files
-
-- V1.0.2, 22 Mar '17
-    - switched to MIT license
-
-### License
-
-- Copyright 2017 Creative Tim (http://www.creative-tim.com)
 - Licensed under MIT (https://github.com/creativetimofficial/material-bootstrap-wizard/blob/master/LICENSE.md)
-
-
-## Useful Links
-
-More products from Creative Tim: <http://www.creative-tim.com/bootstrap-themes>
-
-Tutorials: <https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w>
-
-Freebies: <http://www.creative-tim.com/products>
-
-Affiliate Program (earn money): <http://www.creative-tim.com/affiliates/new>
-
-Social Media:
-
-Twitter: <https://twitter.com/CreativeTim>
-
-Facebook: <https://www.facebook.com/CreativeTim>
-
-Dribbble: <https://dribbble.com/creativetim>
-
-Google+: <https://plus.google.com/+CreativetimPage>
-
-Instagram: <https://instagram.com/creativetimofficial>
